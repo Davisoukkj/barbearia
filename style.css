@@ -1,0 +1,41 @@
+    h1 {
+text-align: center;   
+color: rgb(255, 255, 255);
+font-style: initial;
+    }
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-style: initial;
+}
+p {
+    text-align: center;
+    font-style: inherit;
+}
+.capi1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 25;
+    left: 450;
+}
+.capi2 {
+    display: block;
+    margin-left: 0%;
+    position:absolute;
+    top: 0;
+    left: 7;
+
+}
+
+body {
+    background-color: rgba(185, 121, 0, 0.719);
+    font-size: 18px;
+  }
+  
+
+
+  
+  
+  
